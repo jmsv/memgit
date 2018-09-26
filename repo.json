@@ -1,0 +1,15 @@
+{
+  "/.git/hooks": null,
+  "/.git/info": null,
+  "/.git/objects/info": null,
+  "/.git/objects/pack": null,
+  "/.git/objects/5e/23212dc6c44712195b71c962698e5ea44dd005": "x�K��OR04eH,�ONL�WH��+I�+\u0001\u0000[o\b\u001e",
+  "/.git/objects/4b/825dc642cb6eb9a060e54bf8d69288fbee4904": "x�+)JMU0`\u0000\u0000\n,\u0002\u0001",
+  "/.git/objects/e8/824df32bb6024cec0267deec459e64b5c5dc99": "x���A\nB!\u0010��֞b�A�3�\u0014\"Zw��:3�^a������A�\u000f~~��,\u001d�@��T��`�09˙4Ǆ��]��P�!�Y�Et&=��68��\u000f8/|�����8^?4~��k?�䷻H>F�5N���׮��&��@\u001a��T�\u0006��=�",
+  "/.git/refs/heads/master": "e8824df32bb6024cec0267deec459e64b5c5dc99\n",
+  "/.git/refs/tags": null,
+  "/.git/config": "[core]\n\trepositoryformatversion = 0\n\tfilemode = false\n\tbare = false\n\tlogallrefupdates = true\n\tsymlinks = false\n\tignorecase = true\n",
+  "/.git/HEAD": "ref: refs/heads/master\n",
+  "/.git/index": "DIRC\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0001[��\u0006���[��\u0006���\u0000\u0000\u0000\u0000\u0000\u0000\u0000\r\u0000\u0000��\u0000\u0000\u0003�\u0000\u0000\u0003�\u0000\u0000\u0000\u000f^#!-��G\u0012\u0019[q�bi�^�M�\u0005\u0000\f/avocado.txt\u0000\u0000\u0000\u0000\u0000\u0000cQCl�q�*�q-]W\u001d\u000b\\;���",
+  "/avocado.txt": "avocado content"
+}
